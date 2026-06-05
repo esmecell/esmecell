@@ -1,8 +1,8 @@
 # Hi there!
 
-### 💻 JavaScript & C++ Developer
+### JavaScript & C++ Developer
 
-## Languages
+##  Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=js,cpp" />
