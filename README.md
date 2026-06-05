@@ -1,16 +1,25 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**esmecell/esmecell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there!
 
-Here are some ideas to get you started:
+###  Developer | JavaScript & C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <img src="https://skillicons.dev/icons?i=js,cpp,git,github,vscode" />
+</p>
+
+<p>
+  <a href="https://www.instagram.com/49esmes" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="50">
+  </a>
+
+  <a href="https://www.tiktok.com/@its_esme49" target="_blank">
+    <img src="https://cdn.simpleicons.org/tiktok" height="50">
+  </a>
+
+  <a href="https://x.com/Esme230384" target="_blank">
+    <img src="https://cdn.simpleicons.org/x" height="50">
+  </a>
+</p>
+
+</div>
