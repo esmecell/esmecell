@@ -11,7 +11,7 @@
 ## Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,discord" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github" />
 </p>
 
 ##  Socials
@@ -33,5 +33,5 @@
 ---
 
 <div align="right">
-  <img src="./assets/esme.png" width="250">
+  <img src="./assets/niko.jpeg" width="250">
 </div>
