@@ -28,9 +28,8 @@
   <a href="https://x.com/Esme230384">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
   </a>
-</p>
 
----
+
 
 <div align="right">
   <img src="./assets/niko.jpeg" width="250">
