@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/mizuki plush_nui.jpg"width="10000" height="1000"">
+  <img src="./assets/mizuki plush_nui.jpg"width="10000" height="10000"">
 </p>
 <div align="center">
 
@@ -53,9 +53,3 @@
 </div>
 
 <br>
-<p align="center">
-  <img src="./assets/mizuki plush_nui.jpg"width="10000" height="1000"">
-</p>
-<div align="center">
-
-
