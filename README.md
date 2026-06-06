@@ -53,11 +53,9 @@
 </div>
 
 <br>
-
-<div align="right">
-  <img src="./assets/"mizuki plush_nui.jpg width="250px">
-</div>
-
-<br><br>
+<p align="center">
+  <img src="./assets/mizuki plush_nui.jpg"width="10000" height="1000"">
+</p>
+<div align="center">
 
 
