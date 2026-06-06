@@ -32,6 +32,19 @@
 ︶⊹︶︶୨୧︶︶⊹︶
 
 <p>
+  <a href="https://www.instagram.com/49esmes">
+    <img src="https://cdn.simpleicons.org/instagram" width="48" />
+  </a>
+
+  <a href="https://www.tiktok.com/@its_esme49">
+    <img src="https://cdn.simpleicons.org/tiktok" width="48" />
+  </a>
+
+  <a href="https://x.com/Esme230384">
+    <img src="https://cdn.simpleicons.org/x" width="48" />
+  </a>
+</p>
+<p>
   
 
 </div>
