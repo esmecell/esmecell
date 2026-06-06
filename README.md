@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="./assets/mizuki plush_nui.jpg"width="10000" height="1800"">
+  <img src="./assets/★ Z𖦹MBiEPOP !.jpg"width="10000" height="1800"">
 </p>
 <div align="center">
 
