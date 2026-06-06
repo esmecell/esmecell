@@ -6,15 +6,15 @@
 
 <br>
 
-# ✨ Esme ✨
+# About Me
 
-### 💕 JavaScript & C++ Developer
+###  JavaScript & C++ Developer
 
 ⋆｡‧˚ʚ💗ɞ˚‧｡⋆
 
 ---
 
-## 🎀 Languages
+##  Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=js,cpp" />
@@ -22,7 +22,7 @@
 
 ---
 
-## 🌷 Tools
+##  Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=vscode,git,github" />
@@ -48,9 +48,6 @@
 
 ---
 
-## ✨ About Me
-
-🔹 Bot Developer • 🔹 JavaScript Enthusiast • 🔹 Learning C++ • 🔹 Open Source Enjoyer
 
 </div>
 
