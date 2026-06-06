@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/mizuki plush_nui.jpg"width="1000" height="400"">
+  <img src="./assets/mizuki plush_nui.jpg"width="10000" height="400"">
 </p>
 <div align="center">
 
