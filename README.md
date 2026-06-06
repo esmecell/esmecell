@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/Mizuki GIF.gif" width="100%">
+  <img src="./assets/Mizuki GIF.gif" width="600%">
 </p>
 <div align="center">
 
@@ -61,5 +61,5 @@
 <br><br>
 
 <p align="center">
-  <img src="./assets/Mizuki GIF.gif" width="100%">
+  <img src="./assets/Mizuki GIF.gif" width="600%">
 </p>
