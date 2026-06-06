@@ -2,7 +2,7 @@ THIS IS ON PROCESS!!! pls ignore
 
 
 <p align="center">
-  <img src="./assets/mizuki plush_nui.jpg"width="10000" height="1600"">
+  <img src="./assets/mizuki plush_nui.jpg"width="10000" height="1800"">
 </p>
 <div align="center">
 
