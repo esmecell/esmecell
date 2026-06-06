@@ -9,28 +9,27 @@
 
 ###  JavaScript & C++ Developer
 
-︶⊹︶︶୨୧︶︶⊹︶
+
 
 ---
-
+︶⊹︶︶୨୧︶︶⊹︶
 ##  Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=js,cpp" />
 </p>
-︶⊹︶︶୨୧︶︶⊹︶
+
 ---
 
 ##  Tools
-
+︶⊹︶︶୨୧︶︶⊹︶
 <p>
   <img src="https://skillicons.dev/icons?i=vscode,git,github" />
 </p>
-︶⊹︶︶୨୧︶︶⊹︶
 ---
 
 ##  Socials
-
+︶⊹︶︶୨୧︶︶⊹︶
 <p>
   <a href="https://www.instagram.com/49esmes">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
@@ -44,9 +43,9 @@
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 </p>
-︶⊹︶︶୨୧︶︶⊹︶
----
 
+---
+︶⊹︶︶୨୧︶︶⊹︶
 
 </div>
 
