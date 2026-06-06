@@ -32,6 +32,8 @@
 ︶⊹︶︶୨୧︶︶⊹︶
 
 <p>
+  <img src="https://skillicons.dev/icons?i=js,cpp,vscode,git,github" />
+
   <a href="https://www.instagram.com/49esmes">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
@@ -44,7 +46,6 @@
     <img src="https://cdn.simpleicons.org/x" width="48" />
   </a>
 </p>
-
 
 </div>
 
