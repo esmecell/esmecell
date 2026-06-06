@@ -8,29 +8,6 @@ THIS IS ON PROCESS!!! pls ignore
 
 <br>
 
-# About Me
-
-###  JavaScript & C++ Developer
-
-
-
-
-︶⊹︶︶୨୧︶︶⊹︶
-##  Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=js,cpp" />
-</p>
-
-
-
-##  Tools
-︶⊹︶︶୨୧︶︶⊹︶
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github" />
-</p>
-
-
 ##  Socials
 ︶⊹︶︶୨୧︶︶⊹︶
 
