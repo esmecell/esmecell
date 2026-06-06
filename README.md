@@ -63,3 +63,6 @@
 <p align="center">
   <img src="./mizuki plush_nui.jpg" width="600%">
 </p>
+<p align="center">
+  <img src="./assets/"୨୧save=follow୨୧.jpg width="100%">
+</p>
