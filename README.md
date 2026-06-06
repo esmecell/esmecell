@@ -32,20 +32,7 @@
 ︶⊹︶︶୨୧︶︶⊹︶
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,cpp,vscode,git,github" />
-
-  <a href="https://www.instagram.com/49esmes">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-
-  <a href="https://www.tiktok.com/@its_esme49">
-    <img src="https://cdn.simpleicons.org/tiktok" width="48" />
-  </a>
-
-  <a href="https://x.com/Esme230384">
-    <img src="https://cdn.simpleicons.org/x" width="48" />
-  </a>
-</p>
+  
 
 </div>
 
