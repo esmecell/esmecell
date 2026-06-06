@@ -11,7 +11,7 @@
 
 
 
----
+
 ︶⊹︶︶୨୧︶︶⊹︶
 ##  Languages
 
@@ -19,14 +19,14 @@
   <img src="https://skillicons.dev/icons?i=js,cpp" />
 </p>
 
----
+
 
 ##  Tools
 ︶⊹︶︶୨୧︶︶⊹︶
 <p>
   <img src="https://skillicons.dev/icons?i=vscode,git,github" />
 </p>
----
+
 
 ##  Socials
 ︶⊹︶︶୨୧︶︶⊹︶
@@ -44,7 +44,7 @@
   </a>
 </p>
 
----
+
 ︶⊹︶︶୨୧︶︶⊹︶
 
 </div>
