@@ -3,15 +3,13 @@
 </p>
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=porky_s.zip=30&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Hi+I'm+Esme+%F0%9F%92%97;JavaScript+Developer;C%2B%2B+Learner" />
-
 <br>
 
 # About Me
 
 ###  JavaScript & C++ Developer
 
-⋆｡‧˚ʚ💗ɞ˚‧｡⋆
+︶⊹︶︶୨୧︶︶⊹︶
 
 ---
 
@@ -20,7 +18,7 @@
 <p>
   <img src="https://skillicons.dev/icons?i=js,cpp" />
 </p>
-
+︶⊹︶︶୨୧︶︶⊹︶
 ---
 
 ##  Tools
@@ -28,10 +26,10 @@
 <p>
   <img src="https://skillicons.dev/icons?i=vscode,git,github" />
 </p>
-
+︶⊹︶︶୨୧︶︶⊹︶
 ---
 
-## 💕 Socials
+##  Socials
 
 <p>
   <a href="https://www.instagram.com/49esmes">
@@ -46,7 +44,7 @@
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 </p>
-
+︶⊹︶︶୨୧︶︶⊹︶
 ---
 
 
