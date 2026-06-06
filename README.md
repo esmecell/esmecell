@@ -55,14 +55,9 @@
 <br>
 
 <div align="right">
-  <img src="./assets/esme.png" width="250px">
+  <img src="./assets/"mizuki plush_nui.jpg width="250px">
 </div>
 
 <br><br>
 
-<p align="center">
-  <img src="./mizuki plush_nui.jpg" width="600%">
-</p>
-<p align="center">
-  <img src="./"୨୧save=follow୨୧.jpg width="100%">
-</p>
+
