@@ -1,7 +1,7 @@
 
 <p align="center">
   <img src="./assets/★ Z𖦹MBiEPOP !.jpg"width="10000" height="1800"">
-</p>
+</p> 
 <div align="center">
 
 <br>
